@@ -45,6 +45,6 @@
 - **Insight**: Bellabeat can provide sleep coaching on weekdays to improve sleep duration and efficiency, particularly on **Thursday** when users experience mid-week fatigue.
 
 ## 10. **Sleep Efficiency**
-![Sleep Efficiency](./SLEEP%20EFFICIENCY.png)
+![Sleep Efficiency](./TOTAL%20TIME%20ASLEEP%20VS%20TOTAL%20TIME%20IN%20BED.png)
 - **Description**: This chart demonstrates users' sleep efficiency by comparing time spent in bed to actual sleep. Higher efficiency is indicated by a line closer to 1, with variations suggesting inefficiency or oversleeping.
 - **Insight**: Bellabeat can offer personalized sleep optimization tips based on sleep efficiency trends, helping users improve their rest quality.
