@@ -23,4 +23,3 @@ The dataset used for this analysis is sourced from the publicly available **Fitb
 1.  **Python**: pandas, matplotlib, seaborn
 2.  **Jupyter Notebook**: Data analysis and visualization
 3.  **SQLite**: Used for querying and managing the dataset
-4.  
