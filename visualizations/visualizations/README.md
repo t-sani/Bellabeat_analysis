@@ -87,7 +87,7 @@ Based on the **Bellabeat PowerPoint** content you shared, I’ve outlined detail
 ---
 
 ## 4. **Heart Rate per Day**
-![Heart Rate per Day](./heart_rate_per_day.png)
+visualizations/            HEART RATE PER DAY.png
 - **Description**: This chart shows the average heart rate per day of the week. **Thursday** has the highest heart rate, suggesting increased activity or stress, while **Sunday** has the lowest.
 - **Insight**: Bellabeat could offer stress management routines, especially on Thursdays, and promote relaxation techniques during weekends when users' heart rates are lower.
 
