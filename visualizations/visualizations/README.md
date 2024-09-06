@@ -73,14 +73,14 @@ Based on the **Bellabeat PowerPoint** content you shared, I’ve outlined detail
 ---
 
 ## 2. **Calories Burned per Week**
-![Calories Burned per Week](./calories_burned_per_week.png)
+![Calories Burned per Week](./[calories_burned_per_week](https://github.com/sanithomas/Bellabeat_analysis/blob/ca99855bc9d151a58b8d22cf12795a3f023f5abe/visualizations/CALORIES%20BURNT%20PER%20WEEK.png).png)
 - **Description**: A comparison of calories burned across different days of the week. The highest calorie burn happens on **Saturday**, with **Thursday** seeing the lowest.
 - **Insight**: Weekend challenges in the Bellabeat app could be introduced to capitalize on the high calorie burn on Saturdays, while mid-week motivation (especially on Thursdays) could boost user engagement.
 
 ---
 
 ## 3. **Heart Rate per Hour**
-![Heart Rate per Hour](./heart_rate_per_hour.png)
+![Heart Rate per Hour](./[heart_rate_per_hour](https://github.com/sanithomas/Bellabeat_analysis/blob/ca99855bc9d151a58b8d22cf12795a3f023f5abe/visualizations/%20%20%20%20%20%20%20%20%20%20%20%20HEART%20RATE%20PER%20DAY.png).png)
 - **Description**: This graph tracks the average heart rate per hour. The peak heart rate occurs at **6 PM**, with the lowest levels around **4 AM**.
 - **Insight**: Bellabeat can integrate this information into the **Leaf** tracker and app to provide personalized recommendations for "Evening Heart Boost" workouts or "Nighttime Relax" sessions to help users manage stress.
 
