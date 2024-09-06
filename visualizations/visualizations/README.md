@@ -66,7 +66,7 @@ Based on the **Bellabeat PowerPoint** content you shared, I’ve outlined detail
 ---
 
 ## 1. **Calories Burned per Hour**
-![Calories Burned per Hour](./CALORIES_BURNT_PER_HOUR.png)
+[![Calories Burned per Hour](./CALORIES_BURNT_PER_HOUR.png)](https://github.com/sanithomas/Bellabeat_analysis/blob/44ee35f65cdd248410888ad64bb41b2515769ae3/visualizations/CALORIES%20BURNT%20PER%20HOUR.png)
 - **Description**: This chart shows the average number of calories burned by users each hour. The highest calorie burn occurs between **5-7 PM**, with a noticeable rise starting at **6 AM** and peaking around **noon**.
 - **Insight**: Bellabeat can leverage this by promoting morning workout challenges to users through the app and encouraging evening activities, which align with users' natural peaks in calorie burn.
 
