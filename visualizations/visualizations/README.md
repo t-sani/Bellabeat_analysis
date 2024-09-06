@@ -3,7 +3,8 @@
 This folder contains key visualizations generated during the analysis of Bellabeat's smart device data. Each visualization represents important insights about user behavior and health metrics.
 
 ## 1. **Calories Burned per Hour**
-![Calories Burned per Hour](./https://github.com/sanithomas/Bellabeat_analysis/blob/main/visualizations/CALORIES%20BURNT%20PER%20HOUR.png(https://github.com/sanithomas/Bellabeat_analysis/blob/e246d1ac1c054e0b48821d7977505576b5276348/visualizations/CALORIES%20BURNT%20PER%20HOUR.png)
+![Calories Burned per Hour](./visualizations
+/CALORIES BURNT PER HOUR.png)
 - **Description**: This chart shows the average number of calories burned by users each hour. The highest calorie burn occurs between **5-7 PM**, with a noticeable rise starting at **6 AM** and peaking around **noon**.
 - **Insight**: Bellabeat can leverage this by promoting morning workout challenges to users through the app and encouraging evening activities, which align with users' natural peaks in calorie burn.
 
